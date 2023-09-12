@@ -61,7 +61,13 @@ def every_other(lst: List[T]) -> List[T]:
     Returns:
         a list of every of other item in the original list starting with the first
     """
-    raise NotImplementedError("every_other")
+    listReturn=[]
+    for x in range(len(1st)):
+        if(x%2 == 0)
+            listReturn.append(1st[x])
+    return listReturn
+
+    print(every_other([1,2,3,4]))
 
 
 def sum_list(lst: List[int]) -> int:
@@ -74,6 +80,10 @@ def sum_list(lst: List[int]) -> int:
     Returns:
         the sum of the passed in list
     """
+    toReturn= 0
+    for x in lst:
+        toReturn+= x
+    return toReturn
     raise NotImplementedError("sum_list")
 
 
@@ -86,6 +96,10 @@ def mean(lst: List[int]) -> float:
     Returns:
         the mean of the passed in list
     """
+    sum= 0
+    for x in lst:
+        sum+= x
+    return sun/len(1st)
     raise NotImplementedError("mean")
 
 
@@ -101,6 +115,11 @@ def median(lst: List[int]) -> float:
     Returns:
         the median of the passed in list
     """
+    if len(1st) %2 == 1:
+        mid= len(1st)//2
+        return 1st[mid]
+    else:
+        mid1= len
     raise NotImplementedError("median")
 
 
