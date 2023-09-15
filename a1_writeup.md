@@ -13,11 +13,10 @@ Mr. Berg will look at all your files to determine what you have completed.  If t
 ## Reflection Questions
 
 1. What is your initial thoughts about the python programming language?
-
-
+    There are some similarities with Java and other programming languages. In the beginning, python did seem confusing because I had never used it nor am familiar with it. But I think I am able to adapt and learn it.
 
 2. Describe some similarities and differences that you found between python and other programming languages you have used in the past?
-
-
+    I've used Java in some other classes, they both use the same formats and templates. The primary differences are the code segments they follow and the syntax formats.
 
 3. What are some things that you learned through this assignment?
+    I learned the format of python for simple things like declaring values, setting integers, and setting up true/false values. I also learned how to set up a list of options for a user to interact with the python code. 
